@@ -3,13 +3,6 @@
 Tor ağı üzerinden .onion adreslerini toplu olarak tarayan Go uygulaması.
 
 
-
-## Kurulum
-
-```bash
-go mod download
-```
-
 Tor Browser'ı açın veya Tor servisini başlatın.
 
 ## Kullanım
